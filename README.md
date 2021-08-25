@@ -1,2 +1,0 @@
-# ssd_mobilenet_v1_fpn_640x640_coco17_tpu-8
- ssd_mobilenet_v1_fpn_640x640_coco17_tpu-8
